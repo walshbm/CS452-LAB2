@@ -1,0 +1,9 @@
+Directions to create a shaders program:
+
+- Takes shaders as an input
+- Puts shaders into a list
+- Stores shader files into one variable
+- Create a program
+- Attaches shaders list to the created program
+- Bind the location and attributes to a program for position and color
+- Link shader program to other program
